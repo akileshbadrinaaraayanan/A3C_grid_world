@@ -12,7 +12,7 @@ The reward location is randomly placed in the 2D grid environment at every episo
 
 For train time, the below files are used:
 
-grid_env_r1.py contains the implementation A3C algorithm.
+grid_env_r1.py contains the implementation of A3C algorithm.
 
 environment_a3c_r1.py is the code for 2D environment.
 
@@ -29,7 +29,7 @@ renderenv_load_weights.py : To monitor how the agent behaves by rendering.
 The environment is more complex in this case with more number of obstacles as well as obstacles that move in both the directions (left-to-right and right-to-left).
 For train time, the below files are used:
 
-grid_env_r3.py contains the implementation A3C algorithm.
+grid_env_r3.py contains the implementation of A3C algorithm.
 
 environment_a3c_r3.py is the code for 2D environment.
 
