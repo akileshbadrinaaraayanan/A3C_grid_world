@@ -29,4 +29,4 @@ If you want to just test with pre-trained model (stored inside models directory)
 CUDA_VISIBLE_DEVICES="" python grid_env_test.py
 ```
 ## 4) Acknowledgement
-The environment code is based on grid world environment [here](https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-world)
+The basic environment code is based on grid world environment [here](https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-world)
