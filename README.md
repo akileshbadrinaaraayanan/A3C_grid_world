@@ -8,21 +8,17 @@ The reward location is randomly placed in the 2D grid environment at every episo
 ![1](https://github.com/akileshbadrinaaraayanan/A3C_grid_world/raw/master/img/sample.png)
 
 ## 2) Code organization
-
 A3C_tensorflow directory contains all the required source files.
 
 For train time, the below files are used:
 
 grid_env_r1.py contains the implementation A3C algorithm.
-
 environment_a3c_r1.py is the code for 2D environment.
 
 For test time, the below files are used:
 
 grid_env_test.py - loads the saved model.
-
 environment_a3c_load_weights.py : game logic for 2D environment.
-
 renderenv_load_weights.py : To monitor how the agent behaves by rendering. 
 
 ## 3) How to train?
