@@ -1,0 +1,5 @@
+Contains A3C tensorflow code to reproduce experiments of generalization on grid environment. 
+
+To train: CUDA_VISIBLE_DEVICES="" python grid_env_r1.py 
+
+If you want to just test with pre-trained model: CUDA_VISIBLE_DEVICES="" python grid_env_test.py (This also renders)
