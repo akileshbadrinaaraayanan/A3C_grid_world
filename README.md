@@ -45,7 +45,7 @@ In both these cases, a non-uniform reward decay is used for the convergence of R
 
 ## 3) How to train?
 ```
-CUDA_VISIBLE_DEVICES="" python python grid_env_r1.py
+CUDA_VISIBLE_DEVICES="" python grid_env_r1.py
 ```
 If you want to just test with pre-trained model (stored inside models directory). Rendering is also enabled at test time.
 ```
