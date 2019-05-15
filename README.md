@@ -41,7 +41,7 @@ environment_a3c_load_weights.py : game logic for 2D environment.
 
 renderenv_load_weights.py : To monitor how the agent behaves by rendering.
 
-In both these cases, a non-uniform reward decay is used for the convergence of Reinforcement Learning (RL) agent.
+In both these cases, a non-uniform reward decay is used for the convergence of RL agent.
 
 ## 3) How to train?
 ```
